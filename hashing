@@ -1,0 +1,18 @@
+package hashing;
+
+import java.util.*;
+
+public class Hashing {
+
+	public static void main(String[] args) {
+		// TODO Auto-geInteger method stub
+  Hashtable<Integer,String>hm=new Hashtable<Integer,String>();
+  hm.put(6, "hello");
+  hm.put(4, "website");
+  hm.put(9,"javatpoint");
+      System.out.println(hm);
+
+
+	}
+
+}
